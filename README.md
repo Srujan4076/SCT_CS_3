@@ -25,6 +25,12 @@ This is a Python-based Password Strength Checker project developed as part of a 
 2. Run the file:
    python password_strength_checker.py
 
+## Example
+
+Password: Hello@123
+
+Result: Strong Password
+
 ## Purpose
 
 The main purpose of this project is to understand password security concepts and improve Python programming and logical problem-solving skills.
@@ -32,3 +38,4 @@ The main purpose of this project is to understand password security concepts and
 ## Author
 
 Srujan Raghavapuram
+
